@@ -1,0 +1,20 @@
+12/4/2015 3:05:35 PM - New Batch Manager created
+12/4/2015 3:05:35 PM - New Batch Manager created
+12/4/2015 3:05:35 PM - New Batch List created
+12/4/2015 3:05:35 PM - New Batch Manager created
+12/4/2015 3:05:35 PM - New Batch Manager created
+12/4/2015 3:05:35 PM - New Batch List created
+12/4/2015 3:05:35 PM - Batch Manager Started
+12/4/2015 3:05:46 PM - Batch Manager Already Started
+12/4/2015 3:05:46 PM - Save of document at \\roc-file01\userarea$\nmaughan\documents\visual studio 2015\Projects\LossRunsNavServer\LossRunsNavServer\Master\BatchList.jsonSucessful
+12/4/2015 3:05:47 PM - Save of document at \\roc-file01\userarea$\nmaughan\documents\visual studio 2015\Projects\LossRunsNavServer\LossRunsNavServer\Master\BatchManager.jsonSucessful
+12/4/2015 3:05:47 PM - Total Batches Set: 2
+12/4/2015 5:12:25 PM - New Batch Manager created
+12/4/2015 5:12:25 PM - Batch List loaded
+12/4/2015 5:12:25 PM - Batch Manager Started
+12/4/2015 5:12:38 PM - Batch Manager Already Started
+12/4/2015 5:15:50 PM - Batch Manager Already Started
+12/4/2015 5:19:08 PM - Batch Manager Already Started
+12/4/2015 5:19:15 PM - Batch Manager Already Started
+12/4/2015 5:19:23 PM - Batch Manager Already Started
+12/4/2015 5:19:23 PM - Batch Manager Already Started

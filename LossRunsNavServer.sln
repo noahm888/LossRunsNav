@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LossRunsNavServer", "LossRunsNavServer\LossRunsNavServer.csproj", "{280B134D-D43C-4A64-8A11-67C9136AE651}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LossRunsNavClient", "LossRunsNavClient\LossRunsNavClient\LossRunsNavClient.csproj", "{B407B4E0-EA9F-48CB-8C12-368B9B4218DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{280B134D-D43C-4A64-8A11-67C9136AE651}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{280B134D-D43C-4A64-8A11-67C9136AE651}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{280B134D-D43C-4A64-8A11-67C9136AE651}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{280B134D-D43C-4A64-8A11-67C9136AE651}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B407B4E0-EA9F-48CB-8C12-368B9B4218DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B407B4E0-EA9F-48CB-8C12-368B9B4218DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B407B4E0-EA9F-48CB-8C12-368B9B4218DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B407B4E0-EA9F-48CB-8C12-368B9B4218DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
